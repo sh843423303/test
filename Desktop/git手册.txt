@@ -174,7 +174,7 @@ $ git commit [file1] [file2] ... -m [message]
 # 提交工作区自上次commit之后的变化，直接到仓库区
 
 $ git commit -a
-
+000
  
 
 # 提交时显示所有diff信息
